@@ -1,3 +1,9 @@
+2024-1-30
+    Add Champions [AurelionSol]
+    Add Champions [AurelionSol]
+    Add Varus Priority Mode
+    Add Block Dash To TaliyahE
+
 2023-12-30 
     Add Champions [AurelionSol]
     Fix Annie Auro R
