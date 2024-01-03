@@ -1,6 +1,6 @@
-2024-1-30
-    Add Champions [AurelionSol]
-    Add Champions [AurelionSol]
+2024-1-3
+    Add Champions [Qiyana]
+    Add Champions [Galio]
     Add Varus Priority Mode
     Add Block Dash To TaliyahE
 
