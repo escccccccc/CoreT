@@ -1,3 +1,8 @@
+2024年1月7日
+    Improve Samira Seconds S
+    Fix Zed W2
+    Fix Zoe Targeted Selection
+
 2024-1-5
     Add Update Two Routes
 
