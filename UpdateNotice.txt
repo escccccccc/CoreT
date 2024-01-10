@@ -1,3 +1,6 @@
+2024-1-11
+    Fix Ezreal Auto Q Turret
+
  2024-1-10
     Updated to 14.1.552.7117
     Improve Milio E
