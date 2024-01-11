@@ -1,5 +1,7 @@
 2024-1-11
+    Updated to 14.1.552.9668
     Fix Ezreal Auto Q Turret
+    Fix Now jungle Tracker
 
  2024-1-10
     Updated to 14.1.552.7117
