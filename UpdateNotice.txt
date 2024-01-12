@@ -1,3 +1,9 @@
+2024-1-12
+    Updated to 14.1.553.2414
+    Add Champions [Gwen]
+    FIx jungle Tracker
+    Add Titanic Hydra Reset Pulse Attack
+
 2024-1-11
     Updated to 14.1.552.9668
     Fix Ezreal Auto Q Turret
