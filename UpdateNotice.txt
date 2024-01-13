@@ -1,3 +1,9 @@
+2024-1-13
+    Fix Olaf Pickuptheaxe
+    Add Yone LaneClear Q3
+    Add Yone Use The Flash R Hot Key
+    Add Yone Use The Q3 Flash Hot Key
+
 2024-1-12
     Updated to 14.1.553.2414
     Add Champions [Gwen]
