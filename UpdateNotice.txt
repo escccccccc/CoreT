@@ -1,3 +1,8 @@
+2024-1-16
+    Fix Viktor W
+    Fix Lucian Menu Farm
+    Add Champions [Teemo]
+
 2024-1-15
     Add Champions [Nocturne]
     
