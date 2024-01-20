@@ -1,3 +1,7 @@
+2024-1-20
+    Add Champions [Alistar]
+    Add Activator Picking Up Lanterns
+
 2024-1-19
     Add Champions [Taric]
     Fix JungleTracker Time
