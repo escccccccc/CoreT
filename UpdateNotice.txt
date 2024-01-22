@@ -1,3 +1,7 @@
+2024-1-22
+    Add Champions [Sett]
+    Fix Nami Combo W
+
 2024-1-21
     Add Champions [Sion]
 
