@@ -1,3 +1,7 @@
+2024-1-24
+    Updated to 14.2.555.1545
+    Fix Varus Q
+
 2024-1-23
     Add Champions [Urgot]
     Add Activator Caitlyn Headshot On Titanic Hydra
