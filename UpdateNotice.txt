@@ -1,6 +1,7 @@
 2024-1-24
     Updated to 14.2.555.1545
     Fix Varus Q
+    Fix Jungle Tracker
 
 2024-1-23
     Add Champions [Urgot]
