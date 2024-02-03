@@ -1,3 +1,7 @@
+2024-2-3
+    Add Champions [Smolder]
+    Add Smolder Evade
+
 2024-1-28
     Add Champions [Ivern]
 
