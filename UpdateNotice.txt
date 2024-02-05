@@ -1,3 +1,6 @@
+2024-2-5
+    Add Champions [Lillia]
+
  2024-2-4
     Add Smolder LaneClear Q
     Add Smolder LaneClear Q Only LastHit
