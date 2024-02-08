@@ -1,3 +1,9 @@
+2024-2-8
+    Updated to 14.3.558.8314
+    Add Champions [Zac]
+    Improve Lucian R
+    Add Lucian Use Combo R Pulse Attack Range
+
 2024-2-7
     Updated to 14.3.558.106
     Add Champions [Rengar]
