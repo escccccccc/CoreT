@@ -1,3 +1,10 @@
+2024-2-9
+    Updated Damage
+    Add Champions [Vi]
+    Fix Jungle Neutral Object Error
+    Add Irelia LaneClear Q Clearance
+    
+
 2024-2-8
     Updated to 14.3.558.8314
     Add Champions [Zac]
