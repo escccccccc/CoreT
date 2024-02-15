@@ -1,3 +1,8 @@
+2024-2-15
+    Add Champions [Skarner]
+    Fix Ivern  Game Crashes
+    Add Ivern Use Combo Attack Q Passive
+    
 2024-2-14
     Fix TwistedFate Do Not Attack During Card Draw
     Fix Ivern  Game Crashes
