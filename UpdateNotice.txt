@@ -1,3 +1,8 @@
+2024-2-22
+    Updated to 14.4.561.3953
+    Add Champions [Sejuani]
+    Updated Damage
+    
 2024-2-20
     Add Champions [Shaco]
 
