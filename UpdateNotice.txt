@@ -1,3 +1,8 @@
+2024-2-23
+    Add Champions [Nunu]
+    FIx Pantheon Target Selector
+    Fix KSante W
+
 2024-2-22
     Updated to 14.4.561.3953
     Add Champions [Sejuani]
