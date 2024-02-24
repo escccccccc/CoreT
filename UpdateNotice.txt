@@ -1,3 +1,6 @@
+2024-2-24 
+    Updated to 14.4.562.1960
+
 2024-2-23
     Add Champions [Nunu]
     FIx Pantheon Target Selector
