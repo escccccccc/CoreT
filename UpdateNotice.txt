@@ -1,3 +1,9 @@
+2024-3-23
+    Add Champions [Naafiri]
+    Improve Smolder LaneClear Q
+    Improve Ezreal Kill WQ
+    Add Karthus Auto Close E
+
 2024-3-22
     Updated to 14.6.569.5139
     Add Champions [Quinn]
