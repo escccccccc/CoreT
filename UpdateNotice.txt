@@ -1,3 +1,6 @@
+2024-3-24
+    Add Champions [Talon]
+    
 2024-3-23
     Add Champions [Naafiri]
     Improve Smolder LaneClear Q
