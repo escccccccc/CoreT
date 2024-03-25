@@ -1,3 +1,7 @@
+2024-3-25
+    Add Talon Lock The Target And Use The R Combination Combo
+    Add Talon Kill R Combination Target >= % (the smaller the number, the more accurate)
+    
 2024-3-24
     Add Champions [Talon]
     
