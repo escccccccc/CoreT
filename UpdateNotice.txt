@@ -1,3 +1,7 @@
+2024-4-6
+    Lee sin - Ward Jump / Insec Priority Of Use Yellow Ward
+    Add Champions [Sona]
+    
 2024-4-5
     Redoing the [Skarner] Champion Hero Script
     Updated Skarner Evade Data
