@@ -1,3 +1,8 @@
+2024-4-9
+    Add Yone Menu- (Q W  R) Hit Chance
+    Add Yone Menu- Use Combo Q Minion Stacks Q3 
+    Add Yone Menu- Use Combo R Target Receive CC 
+
 2024-4-8
     Add Champions [Braum]
 
