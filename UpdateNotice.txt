@@ -1,3 +1,6 @@
+2024-4-10
+    Add Champions [Rakan]
+
 2024-4-9
     Add Yone Menu- (Q W  R) Hit Chance
     Add Yone Menu- Use Combo Q Minion Stacks Q3 
