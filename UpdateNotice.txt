@@ -1,3 +1,8 @@
+2024-4-15
+    Add Vex Menu - (Q E  R) Hit Chance
+    Add Akali Menu - (Q E  R) Hit Chance
+    Improve Akshan Use Combo R E
+    
 2024-4-13
     Add Champions [Rell]
     Add Yone Menu - E2 Block Spell Settings
