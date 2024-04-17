@@ -1,3 +1,18 @@
+2024-4-17
+    Updated to 14.8.575.9209
+    Updated Damage
+    Add DrMundo E Reset Pulse Attacks
+    Add Caitlyn Menu - (Q E) Hit Chance
+    Add Caitlyn Menu - Use Kill E
+    Add Aatrox Menu - Use Combo Q Judging The State Of The Attack
+    Add Riven Menu - Q1 2 3 Dalay
+    Improve Akshan Combo E1
+    Improve Ezreal Combo Use Kill Q
+    Improve Taric E
+    Fix Olaf
+    Fix Poppy Q
+    Fix Poppy Auto W Gapcloser
+
 2024-4-15
     Add Vex Menu - (Q E  R) Hit Chance
     Add Akali Menu - (Q E  R) Hit Chance
