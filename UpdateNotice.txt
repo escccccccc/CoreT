@@ -12,6 +12,7 @@
     Fix Olaf
     Fix Poppy Q
     Fix Poppy Auto W Gapcloser
+    Fix A.R.A.M Summoner CD
 
 2024-4-15
     Add Vex Menu - (Q E  R) Hit Chance
