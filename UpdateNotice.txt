@@ -1,3 +1,8 @@
+2024-4-21
+    Add Lux Menu - (Q E R) Hit Chance
+    Add Brand Menu - (Q E) Hit Chance
+    Add Brand Menu - Use Combo Quick Q Stun
+    
 2024-4-18
     Updated to 14.8.576.8838
     Fix Game Crash
