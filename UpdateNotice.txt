@@ -1,3 +1,6 @@
+2024-4-24
+    Updated Support Vanguard
+
 2024-4-21
     Add Lux Menu - (Q E R) Hit Chance
     Add Brand Menu - (Q E) Hit Chance
