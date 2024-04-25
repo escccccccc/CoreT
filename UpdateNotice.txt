@@ -1,6 +1,7 @@
 2024-4-25
     Updated to 14.8.578.3867
     Fix Some Users Do Not Inject
+    Add Pyke Menu - Use The E Flash Hotkey
     
 2024-4-24
     Updated Support Vanguard
