@@ -1,3 +1,10 @@
+2024-4-26
+    Fix Combo Enable fast attack speed >1.5, do not use W within basic attack range
+    Add Caitlyn Menu - (W) Hit Chance
+    Add Taliyah Menu - (Q W E) Hit Chance
+    Add Taliyah Menu - Q Tracking Delay
+    Add Taliyah Menu - Q State Mode
+
 2024-4-25
     Updated to 14.8.578.3867
     Fix Some Users Do Not Inject
