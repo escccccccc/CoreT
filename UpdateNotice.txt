@@ -1,3 +1,8 @@
+2024-4-29
+    Add Jhin Menu - (W E R) Hit Chance
+    Add Jinx Menu - (W E R) Hit Chance
+    Fix Olaf Pick Up Axe Bug
+
 2024-4-28
     Improve Taliyah Tracking Q
     Fix Azir Insec Selected Target Crash
