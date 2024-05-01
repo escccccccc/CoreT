@@ -5,6 +5,7 @@
     Improve Zoe Q2
     Improve Jinx W
     FIx LeeSin Do not use Spells
+    Fix LeeSin Evade Q
     
 2024-4-29
     Add Jhin Menu - (W E R) Hit Chance
