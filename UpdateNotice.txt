@@ -3,6 +3,8 @@
     Updated Damage
     Add Zeri Menu - (Q W) Hit Chance
     Improve Zoe Q2
+    Improve Jinx W
+    FIx LeeSin Do not use Spells
     
 2024-4-29
     Add Jhin Menu - (W E R) Hit Chance
