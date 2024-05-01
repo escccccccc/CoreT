@@ -1,3 +1,9 @@
+ 2024-5-1
+    Updated to 14.9.580.2108
+    Updated Damage
+    Add Zeri Menu - (Q W) Hit Chance
+    Improve Zoe Q2
+    
 2024-4-29
     Add Jhin Menu - (W E R) Hit Chance
     Add Jinx Menu - (W E R) Hit Chance
