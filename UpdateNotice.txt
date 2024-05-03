@@ -1,3 +1,8 @@
+2024-5-4
+    Add Zeri E Safe Check
+    Fix Vayne Kindred Q Safe Check
+    Fix Taliyah Tracking Q
+
  2024-5-3
     Fix Main Program Crash
     Fix Arena
