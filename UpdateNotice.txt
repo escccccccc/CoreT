@@ -1,5 +1,6 @@
  2024-5-3
-     Fix Arena
+    Fix Main Program Crash
+    Fix Arena
     Add Zeri Menu - E Wall Path
 
 2024-5-2
