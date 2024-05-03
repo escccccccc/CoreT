@@ -1,5 +1,9 @@
+ 2024-5-3
+     Fix Arena
+    Add Zeri Menu - E Wall Path
+
 2024-5-2
-    Add Support Area NA、EUW、EUNE、OCE、TR、BR、LAN、LAS
+    Add Support Area NA EUW EUNE OCE TR BR LAN LAS
     Improve Aatrox Q
     Fix Zeri E W
     Fix MasterYi Spell Evade Q
