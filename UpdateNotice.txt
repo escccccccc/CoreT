@@ -1,4 +1,8 @@
 2024-5-4
+    Fix Varus Kill Q
+    Fix Aphelios Punch Marker Q
+    Improve Zeri LaneClear Use Q
+------------------------------------------
     Add Zeri E Safe Check
     Fix Vayne Kindred Q Safe Check
     Fix Taliyah Tracking Q
