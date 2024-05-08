@@ -1,3 +1,9 @@
+2024-5-8
+    Add Jinx Menu - W Target Selection Mode
+    Fix CDTracker
+    Fix Arena Evade Flash
+    Improve Zeri LaneClear Defense Tower Q
+    
 2024-5-7
     Improve Orbwalker Interval
     Add CDTracker Menu - Show Me
