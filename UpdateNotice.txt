@@ -1,3 +1,8 @@
+2024-5-9
+    Fix Olaf Pick Up Axe Bug
+    Improve Orbwalker LaneClear
+    Improve Zeri LaneClear Q
+
 2024-5-8
     Add Jinx Menu - W Target Selection Mode
     Fix CDTracker
