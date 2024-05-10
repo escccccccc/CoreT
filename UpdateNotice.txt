@@ -1,5 +1,9 @@
-2024-5-9
+2024-5-10
+    Improve Olaf Prediction Q
     Fix Olaf Pick Up Axe Bug
+    Fix Jarvan Evade E Q
+    
+2024-5-9
     Improve Orbwalker LaneClear
     Improve Zeri LaneClear Q
 
