@@ -1,3 +1,8 @@
+2024-5-12
+    Add Zed Menu - R Blacklist
+    Add XinZhao Menu - Use Combo W Distance Greater Than
+    Improve Zoe Q
+    
 2024-5-10
     Improve Olaf Prediction Q
     Fix Olaf Pick Up Axe Bug
