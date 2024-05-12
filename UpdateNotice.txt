@@ -1,4 +1,5 @@
 2024-5-12
+    Add Irelia Menu - Combo Q Safe Check
     Add Zed Menu - R Blacklist
     Add XinZhao Menu - Use Combo W Distance Greater Than
     Improve Zoe Q
