@@ -1,3 +1,7 @@
+2024-5-15
+    Updated to 14.10.584.5961
+    Updated Damage
+
 2024-5-12
     Add Irelia Menu - Combo Q Safe Check
     Add Zed Menu - R Blacklist
