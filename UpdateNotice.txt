@@ -1,3 +1,7 @@
+2024-5-19
+    Add Awareness Menu - Flash Path
+    Improve Use Combo E Targeting
+
 2024-5-15
     Updated to 14.10.584.5961
     Updated Damage
