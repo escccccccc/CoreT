@@ -1,3 +1,7 @@
+2024-5-28
+    Add spoofer (solve VG error message 152 issue)
+    Fix the problem of VG account being blocked (there is still a chance of being blocked, but you can play for a long time, and it is still being further optimized)
+    
 2024-5-22
     Updated to 14.10.586.9705
     
