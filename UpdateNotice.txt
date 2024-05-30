@@ -1,4 +1,5 @@
 2024-5-30
+    Fix Partially not injected
     Updated to 14.11.588.5000
     Updated Damage
     Improve Orianna Q R
