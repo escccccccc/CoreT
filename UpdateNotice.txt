@@ -1,3 +1,9 @@
+2024-5-30
+    Updated to 14.11.588.5000
+    Updated Damage
+    Improve Orianna Q R
+    Improve Zoe Q2
+
 2024-5-28
     Add spoofer (solve VG error message 152 issue)
     Fix the problem of VG account being blocked (there is still a chance of being blocked, but you can play for a long time, and it is still being further optimized)
