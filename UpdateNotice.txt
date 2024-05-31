@@ -1,3 +1,6 @@
+2024-5-31
+    Updated to 14.11.589.9418
+
 2024-5-30
     Fix Partially not injected
     Updated to 14.11.588.5000
