@@ -1,3 +1,12 @@
+2024-6-5
+    Improve Sylas Combo Logic
+    Improve Zoe Q W R Q
+    Improve Lissandra Combo Logic
+    Improve Cassiopeia Combo Logic
+    Improve Kayle E
+    Improve Annie Combo Logic
+    
+
 2024-5-31
     Updated to 14.11.589.9418
 
