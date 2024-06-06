@@ -1,3 +1,6 @@
+2024-6-6
+    Updated Second Node Login
+
 2024-6-5
     Improve Sylas Combo Logic
     Improve Zoe Q W R Q
