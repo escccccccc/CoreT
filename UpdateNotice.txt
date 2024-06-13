@@ -1,5 +1,11 @@
+2024-6-13
+    Updated to 14.12.593.5894
+    Add Karthus Menu - Use Kill R >= x
+    FIx Jinx Combo W
+    Improve Caitlyn Combo Logic
+
 2024-6-12
-    Updated to 14.2.592.6341
+    Updated to 14.12.592.6341
     Updated Damage
     Improve Katarina Combo Logic
     
