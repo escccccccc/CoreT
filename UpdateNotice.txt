@@ -1,4 +1,6 @@
 2024-6-14
+    Updated to 14.12.594.4901
+    Add Ward Tracker - Ward Vision
     Fix Arena
     Fix Udyr Crash
     Add Xayah Menu - E Flash
