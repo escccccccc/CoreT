@@ -1,3 +1,12 @@
+2024-6-18
+    Fix Ward Vision
+    Fix Yasso Windwall Detection
+    Add Draven Menu - Maximum Number Of Axes
+    Improve Prediction
+    Improve Ezreal WQ
+    Improve MissFortune R
+    Improve Zeri Q
+    
 2024-6-15
     Improve Akshan Combo E3 Landing site
     Improve Ward Vision
