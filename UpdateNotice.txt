@@ -1,3 +1,14 @@
+2024-6-20
+    Improve Jinx Q
+    Improve Orbwalker LaneClear
+    Improve Orbwalker Show Enemy Attack Range
+    Add Activator Menu - Auto Buy Farsight Alteration
+    Add Caitlyn Menu - Use W Behind A Defence Tower
+    Add Ezreal Menu - LaneClear Q Only LastHit Hotkey
+    Add Draven Menu - Maximum Number Of Axes Demonstrate
+    Fix Hwei No Spells
+    Fix Heimerdinger R
+
 2024-6-18
     Fix Ward Vision
     Fix Yasso Windwall Detection
