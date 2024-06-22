@@ -1,10 +1,15 @@
+2024-6-22
+    Improve Zeri Q
+    Improve Pyke Hotkey Q
+    Improve Summoners Ignite
+    Fix Open Full Tier Passive A Defence Tower
+
 2024-6-21
     Add Zeri Menu - Open Full Tier Passive A Defence Tower
-    Add Zeri Menu - Preventing Empty R
     Improve Leona E R
     FIx Caitlyn E
     FIx Yone W
-    FIx Samira W
+    FIx Samira Q
     FIx Ahri R
 
 2024-6-20
