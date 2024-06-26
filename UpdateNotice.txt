@@ -1,3 +1,7 @@
+2024-6-26
+    Updated to 14.13.596.7996
+    Updated Damage
+
 2024-6-25
     Add Jax Menu - Combo Q Safe Check
     Add Draven Menu - LaneClear
