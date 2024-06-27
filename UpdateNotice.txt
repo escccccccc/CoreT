@@ -1,3 +1,9 @@
+2024-6-27
+    Fix Irelia Q Damage
+    FIx Nidalee Spell Cooldown Error
+    Improve Nidalee Q Hit Chance Menu
+    Add Karthus Menu - Q Hit Chance
+
 2024-6-26
     Updated to 14.13.596.7996
     Updated Damage
