@@ -1,3 +1,14 @@
+2024-6-28
+    Improve Chinese Menu
+    Improve Graves Combo WQ
+    Improve Thresh R
+    FIx Auto Buy Farsight Alteration
+    FIx Heimerdinger Combination
+    Add Caitlyn EWQ Combo
+    Add Heimerdinger Menu - W Hit Chance
+    Add Heimerdinger Menu - E Hit Chance
+    Add Thresh Menu - Auto W dmg % hp
+
 2024-6-27
     Fix Irelia Q Damage
     FIx Nidalee Spell Cooldown Error
