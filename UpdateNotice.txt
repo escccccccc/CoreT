@@ -1,3 +1,11 @@
+2024-6-29
+    Improve Graves Jungle E
+    Improve Graves Jungle WQ
+    Improve Graves Combo E
+    Improve Setting hotkeys can be cancelled by pressing ESC
+    Add Orbwalker Coil Colour Adjustment
+    Fix Sylas R 
+    
 2024-6-28
     Improve Chinese Menu
     Improve Graves Combo WQ
