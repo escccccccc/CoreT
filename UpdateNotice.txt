@@ -1,3 +1,8 @@
+2024-6-30
+    Improve Menu
+    Fix MissFortune Combo E
+    Add JarvanIV Menu - Use The E Q Hotkey
+
 2024-6-29
     Improve Graves Jungle E
     Improve Graves Jungle WQ
