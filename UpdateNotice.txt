@@ -1,3 +1,10 @@
+2024-7-1
+    Fix Partial Breakdown
+    Fix Activator Tiamat
+    Improve Graves Combo
+    Improve Graves Jungle
+    Add Fizz Turn On Use Q Dive Tower PermaShow
+
 2024-6-30
     Improve Menu
     Fix MissFortune Combo E
