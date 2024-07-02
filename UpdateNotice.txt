@@ -1,3 +1,7 @@
+2024-7-2
+    Updated to 14.13.598.9749
+    Improve Graves Combo
+    
 2024-7-1
     Fix Partial Breakdown
     Fix Activator Tiamat
