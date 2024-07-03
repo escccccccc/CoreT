@@ -1,4 +1,6 @@
 2024-7-3
+    Fix Pyke Target Q
+    Fix Warwick R
     Improve Menu
     Fix Hide All Visuals Tashita
     Improve Neutral Tracker Ping
