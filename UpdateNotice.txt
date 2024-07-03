@@ -1,3 +1,13 @@
+2024-7-3
+    Improve Menu
+    Fix Hide All Visuals Tashita
+    Improve Neutral Tracker Ping
+    Improve Use Normal Ping
+    Add Warwick Champion Script
+    Add MasterYi Turn on Escape Q to escape the tower objective
+    Add MasterYi Combo W Reset Attack
+    FIx Lucian Detect E to the Tower
+    
 2024-7-2
     Updated to 14.13.598.9749
     Improve Graves Combo
