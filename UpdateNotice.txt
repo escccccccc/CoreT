@@ -1,3 +1,8 @@
+2024-7-4
+    Add Warwick Use Kill R
+    Improve Warwick R Range
+    Improve Warwick W Passive Minimap
+    
 2024-7-3
     Fix Pyke Target Q
     Fix Warwick R
