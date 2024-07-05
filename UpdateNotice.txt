@@ -1,3 +1,7 @@
+2024-7-4-1
+    Improve Warwick W Passive Minimap
+    Add Bard Champion Script
+    
 2024-7-4
     Add Warwick Use Kill R
     Improve Warwick R Range
