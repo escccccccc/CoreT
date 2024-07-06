@@ -1,4 +1,9 @@
-2024-7-4-1
+2024-7-6
+    Add Begin Attacking Selected Targets
+    Add Thresh Use The E Flash Hotkey
+    Add Warwick Combo E2 More than one >= X
+    
+2024-7-5
     Improve Warwick W Passive Minimap
     Add Bard Champion Script
     
