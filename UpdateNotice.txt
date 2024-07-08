@@ -1,3 +1,10 @@
+2024-7-8
+    Add Orbwalker Switching Off Mobile
+    Add Evade Spell Immunity Evade
+    Add MissFortune Traversing The Target Refreshes W
+    Add Katarina Catch Daggers on Mode
+    Fix Partial Breakdown
+
 2024-7-6
     Add Begin Attacking Selected Targets
     Add Thresh Use The E Flash Hotkey
