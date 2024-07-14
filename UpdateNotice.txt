@@ -1,3 +1,9 @@
+2024-7-14
+    Improve Switching Off Mobile
+    Improve Evade Spell Immunity Evade Default Switch
+    Improve Xayah R Evade
+    Fix Arena Shuttle Use Spells
+
 2024-7-12
     Improve Riot Vanguard Sensing
 
