@@ -1,3 +1,7 @@
+2024-7-17
+    Updated to 14.14.601.7634
+    Updated Damage
+    
 2024-7-14
     Improve Game Crash
     Improve Switching Off Mobile
