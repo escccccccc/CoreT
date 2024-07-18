@@ -1,3 +1,6 @@
+2024-7-19
+    Add Evade Aurora SpellData
+
 2024-7-18
     Updated to 14.14.602.3371
     Add Activator false identity recognition
