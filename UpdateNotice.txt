@@ -1,3 +1,11 @@
+2024-7-18
+    Updated to 14.14.602.3371
+    Add Activator false identity recognition
+    Add Zeri Only use W For Shuttle Walls
+    Add JarvanIV Retain The Logic Of EQ
+    Improve Katarina Combo
+    
+
 2024-7-17
     Updated to 14.14.601.7634
     Updated Damage
