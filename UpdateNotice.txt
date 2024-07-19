@@ -1,3 +1,10 @@
+2024-7-20
+    Improve Zeri W Prediction
+    Improve Zeri Q Logic
+    Fix Nami E Auto E Me
+    Add Ezreal W Max Cast Range >= x
+    Improve Ezreal Close Q Collision Logic
+    
 2024-7-19
     Add Evade Aurora SpellData
     Improve Leesin insec priority ally hp>% then tower
