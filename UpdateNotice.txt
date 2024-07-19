@@ -1,5 +1,6 @@
 2024-7-19
     Add Evade Aurora SpellData
+    Improve Leesin insec priority ally hp>% then tower
 
 2024-7-18
     Updated to 14.14.602.3371
