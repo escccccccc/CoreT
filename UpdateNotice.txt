@@ -1,3 +1,10 @@
+2024-7-21
+    Add Aurora Championship Script
+    Add Smolder Use Kill Q Interrupting E
+    Improve Zeri Q Range
+    Fix Smolder Interrupting E 
+    
+
 2024-7-20
     Updated to 14.14.602.7801
     Improve Zeri W Prediction
