@@ -1,4 +1,5 @@
 2024-7-20
+    Updated to 14.14.602.7801
     Improve Zeri W Prediction
     Improve Zeri Q Logic
     Fix Nami E Auto E Me
