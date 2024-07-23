@@ -1,3 +1,7 @@
+2024-7-24
+    FIx Loading Activator
+    Add Orbwalker Attack Move Interval
+    
 2024-7-23
     Updated to 14.14.603.4237
     Updated Damage
