@@ -1,3 +1,13 @@
+2024-7-23
+    Updated to 14.14.603.4237
+    Updated Damage
+    Add Katarina Mouse mode to pick up the dagger
+    Improve Zeri Q Range
+    Add Zeri Q Range Use W
+    Add Support 4K CDTracker
+    Add Ezreal Auto Q Hotkey
+    Add Activator Summoner Rename
+
 2024-7-21
     Add Aurora Championship Script
     Add Smolder Use Kill Q Interrupting E
