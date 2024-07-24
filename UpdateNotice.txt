@@ -1,3 +1,11 @@
+2024-7-25
+    FIx Yone Jungle W
+    FIx Loading Activator
+    FIx Activator Summoner Rename
+    Add Zeri ZeriR Draw
+    Add Zeri Q Range Setting
+    Add Zeri Q Range Apart From Use W
+
 2024-7-24
     FIx Loading Activator
     Add Orbwalker Attack Move Interval
