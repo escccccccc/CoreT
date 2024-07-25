@@ -1,3 +1,8 @@
+2024-7-26
+    Fix Ezreal Combo AA
+    Add Irelia Minion Kill Draw
+    Add Awareness Warwick W Passive Display
+
 2024-7-25
     FIx Yone Jungle W
     FIx Loading Activator
