@@ -1,3 +1,8 @@
+2024-7-27
+    Add Irelia Minion Kill Plants Zombies
+    Add dangerous only evade toggle
+    Fix Rechange summoner name
+    
 2024-7-26
     Fix Ezreal Combo AA
     Add Irelia Minion Kill Draw
