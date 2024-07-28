@@ -1,3 +1,6 @@
+2024-7-28
+    Add Zyra Championship Script
+
 2024-7-27
     Add Irelia Minion Kill Plants Zombies
     Add dangerous only evade toggle
