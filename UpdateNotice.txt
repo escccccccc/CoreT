@@ -1,3 +1,11 @@
+2024-7-31
+    Updated to 14.14.603.4237
+    Updated Damage
+    Improve Riot Vanguard Sensing
+    Improve Menu
+    Improve CDTracker
+    Fix Game Crash
+    
 2024-7-28
     Add Zyra Championship Script
 
