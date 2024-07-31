@@ -1,5 +1,5 @@
 2024-7-31
-    Updated to 14.14.603.4237
+    Updated to 14.15.604.8769
     Updated Damage
     Improve Riot Vanguard Sensing
     Improve Menu
