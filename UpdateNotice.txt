@@ -1,3 +1,8 @@
+2024-8-2
+    Fix Activator Items used
+    Add Sett Bevelled angle E
+    Add Zeri Use Combo Q Detecting Target State
+
 2024-7-31
     Updated to 14.15.604.8769
     Updated Damage
