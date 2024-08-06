@@ -1,3 +1,6 @@
+2024-8-6
+    Improve anti-account-ban measures
+    
 2024-8-5
     Improve Aurora Use Combo Q2
     Add Aurora Use WQ To Kill The Target
