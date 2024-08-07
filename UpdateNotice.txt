@@ -1,3 +1,6 @@
+2024-8-7
+    Updated to 14.15.607.22
+    
 2024-8-6
     Improve anti-account-ban measures
     
