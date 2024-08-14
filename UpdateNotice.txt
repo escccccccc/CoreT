@@ -1,3 +1,10 @@
+2024-8-14
+    Updated to 14.16.608.5125
+    Updated Damage
+    Fix Azir Combo W
+    Fix TwistedFate Auto Q
+    Improve Hwei Combo Logic
+
 2024-8-7 
     Updated to 14.15.607.22
     
