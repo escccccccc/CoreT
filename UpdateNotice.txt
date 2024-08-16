@@ -1,5 +1,10 @@
-2024-8-14
+2024-8-16
     Updated to 14.16.609.8277
+    Add Evade Poppy Counterattack Stats
+    Add Zeri LastHit Q
+    Add Aurora Combo E Cast Range
+    Add Aurora Use The R Hotkey
+    Add Aurora Use R when your own HP is low
 
 2024-8-14
     Updated to 14.16.608.5125
