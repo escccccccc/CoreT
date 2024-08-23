@@ -1,3 +1,6 @@
+2024-8-23
+    Updated to 14.16.612.449
+
 2024-8-16
     Updated to 14.16.609.8277
     Add Evade Poppy Counterattack Stats
