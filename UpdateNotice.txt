@@ -1,3 +1,9 @@
+2024-8-24
+    Add Kaisa Use E At A Safe Distance
+    Fix Azir Combo W
+    Improve Combo Rush Skill Logic
+    Improve Smolder Combo E
+
 2024-8-23
     Updated to 14.16.612.449
 
