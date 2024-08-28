@@ -1,3 +1,12 @@
+2024-8-28
+    Updated to 14.17.613.973
+    Updated Damage
+    Improve Vayne Surge Skill Logic
+    Improve Zeri Surge Skill Logic
+    Improve Lucian Surge Skill Logic
+    Add Ezreal Jungle W Horde
+    Fix Arena Orianna Ball Position
+
 2024-8-24
     Add Kaisa Use E At A Safe Distance
     Fix Azir Combo W
