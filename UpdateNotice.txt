@@ -1,3 +1,9 @@
+2024-8-29
+    Add Evade Spell Secure Display Colors
+    Add Evade Spell Insecure Display Colors
+    Add Evade Spell Disable Display Colors
+    Improve Set the hotkey ESC to be an empty key
+
 2024-8-28
     Updated to 14.17.613.973
     Updated Damage
