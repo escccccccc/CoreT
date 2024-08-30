@@ -1,3 +1,6 @@
+2024-8-30
+    Updated to 14.17.614.2229
+
 2024-8-29
     Add Evade Spell Secure Display Colors
     Add Evade Spell Insecure Display Colors
