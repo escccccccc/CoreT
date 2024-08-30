@@ -1,5 +1,6 @@
 2024-8-30
     Updated to 14.17.614.2229
+    Repairing the use of the Hydra
 
 2024-8-29
     Add Evade Spell Secure Display Colors
