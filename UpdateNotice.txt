@@ -1,3 +1,7 @@
+2024-8-31
+    Improve Draven Enhance The Logic Of The Axe
+    Improve Advance Combo Logic
+
 2024-8-30
     Updated to 14.17.614.2229
     Repairing the use of the Hydra
