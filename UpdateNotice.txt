@@ -1,3 +1,8 @@
+2024-9-11
+    Updated to 14.18.616.8335
+    Updated Damage
+    Improve Evade
+    
 2024-9-5
     Updated to 14.17.615.2328
     Improve Evade
