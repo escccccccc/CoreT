@@ -1,3 +1,7 @@
+2024-9-13
+    Improve Jayce EQ
+    Add Jinx LastHit Q Artillery Pattern
+    
 2024-9-11
     Updated to 14.18.616.8335
     Updated Damage
