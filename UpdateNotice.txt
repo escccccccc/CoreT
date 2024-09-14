@@ -1,3 +1,9 @@
+2024-9-14
+    Improve Evade
+    Improve Prediction
+    Improve Soraka Q
+    Add Selected Skin Main Switch
+
 2024-9-13
     Improve Jayce EQ
     Add Jinx LastHit Q Artillery Pattern
