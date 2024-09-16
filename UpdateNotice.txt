@@ -1,3 +1,8 @@
+2024-9-16
+    Improve Varus Target Q
+    Fix Riven Messy use of E
+    Fix Draven Interrupt E
+    
 2024-9-14
     Improve Evade
     Improve Prediction
