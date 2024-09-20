@@ -1,3 +1,9 @@
+2024-9-20
+    Fix Jinx LineClear Q Turret
+    Fix Yone  LaneClear Use W
+    Improve Aurora W Closer
+    Improve Varus Q Target Selection
+
 2024-9-19
     Compensate all users for 8 hours, including those whose subscriptions have expired
     FIx Ashe Jungle Q
