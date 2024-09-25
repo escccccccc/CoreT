@@ -1,3 +1,7 @@
+2024-9-26
+    Fix Skin Changer
+    Improve Sylas Combo
+
 2024-9-25
     Updated to 14.19.620.6549
     Updated Damage
