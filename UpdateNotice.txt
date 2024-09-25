@@ -1,3 +1,12 @@
+2024-9-25
+    Updated to 14.19.620.6549
+    Updated Damage
+    Add KogMaw Use Combo Q in W status
+    Add KogMaw Use E Anti Gapcloser
+    Add Kled Use Combo First use E and then use Q
+    Add Attack Move Interval （Max 110）
+    Improve Kled Combo E
+
 2024-9-20
     Fix Jinx LineClear Q Turret
     Fix Yone  LaneClear Use W
