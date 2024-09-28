@@ -1,3 +1,9 @@
+2024-9-29
+    Add Lulu Combo E Enemy Use Lists
+    Add Varus Use Combo Q Stored Power Full Q
+    Improve Sylas Combo E2
+    Improve Sylas Combo logics
+
 2024-9-26
     Updated to 14.19.621.6353
     Fix Skin Changer
