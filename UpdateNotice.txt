@@ -1,3 +1,10 @@
+2024-10-12
+    Improve Twitch Use E when you're about to die
+    Fix Pyke Often without storing power
+    Add Pyke Use Combo Short Stab Q
+    Add Pyke Use Combo E Detecting Safety
+    Add Pyke Use Kill E R
+        
 2024-10-9
     Updated to 14.20.623.6777
     Updated Damage
