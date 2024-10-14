@@ -1,3 +1,8 @@
+2024-10-14
+    Fix Pyke Stored Q Problems
+    Fix Pyke Use Kill E R
+    Add Yuumi Auto Q
+
 2024-10-12
     Improve Twitch Use E when you're about to die
     Fix Pyke Often without storing power
