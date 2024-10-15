@@ -1,4 +1,6 @@
 2024-10-15
+    Add Yuumi Championship Script
+    Add Lulu Use Harass E
     Add Yuumi Automated shopping items
 
 2024-10-14
