@@ -1,3 +1,7 @@
+2024-10-16
+    Improve Yuumi
+    Improve Orbwalker Tailblade Damage
+
 2024-10-15
     Add Yuumi Championship Script
     Add Lulu Use Harass E
