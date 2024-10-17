@@ -1,3 +1,6 @@
+2024-10-17
+    Add Orbwalker Assist in calculating minion damage
+
 2024-10-16
     Improve Yuumi
     Improve Orbwalker Tailblade Damage
