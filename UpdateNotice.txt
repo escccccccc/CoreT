@@ -1,3 +1,9 @@
+2024-10-20
+    Add Twitch R State Off Dodge
+    Add Leona Dive Turret
+    Improve Zilean Q
+    Add Blitzcrank Q Blacklist Settings
+
 2024-10-17
     Add Orbwalker Assist in calculating minion damage
 
