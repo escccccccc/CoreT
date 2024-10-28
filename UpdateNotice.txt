@@ -1,3 +1,6 @@
+2024-10-28 
+    Improve Riot Vanguard Sensing
+    
 2024-10-26 
     Compensation for 48 hours of time for all users
 
