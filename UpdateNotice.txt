@@ -1,3 +1,6 @@
+2024-10-29
+    Updated to 14.21.630.3012
+
 2024-10-28 
     Improve Riot Vanguard Sensing
     
