@@ -1,3 +1,7 @@
+2024-11-2 
+    Improve Riot Vanguard Sensing
+    Add Activator Camera Lock
+    
 2024-10-29
     Updated to 14.21.630.3012
 
