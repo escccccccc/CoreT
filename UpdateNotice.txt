@@ -1,3 +1,7 @@
+2024-11-4
+    Improve Sylas Combo Logic
+    Add Varus Use Harass Q Stored Power Full Q
+    
 2024-11-2 
     Improve Riot Vanguard Sensing
     Add Activator Camera Lock
