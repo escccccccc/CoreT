@@ -1,3 +1,6 @@
+2024-11-5
+    Fix Loss of network reconnection
+
 2024-11-4
     Improve Sylas Combo Logic
     Add Varus Use Harass Q Stored Power Full Q
