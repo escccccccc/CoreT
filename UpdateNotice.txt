@@ -1,3 +1,8 @@
+2024-11-6
+    Updated to 14.22.631.8255
+    Updated Damage
+    Compensation for 3 hours of time for all users
+   
 2024-11-5
     Fix Loss of network reconnection
 
