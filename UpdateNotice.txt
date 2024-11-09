@@ -1,3 +1,6 @@
+2024-11-9
+     Add Evade Ambessa SpellData
+
 2024-11-7
     Updated to 14.22.633.1362
 
