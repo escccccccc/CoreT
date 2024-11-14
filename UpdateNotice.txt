@@ -1,3 +1,8 @@
+2024-11-14 
+    Improve Riot Vanguard Sensing(Requires a computer restart)
+    Fix Awareness Show Mushrooms
+    Add Championship Ambessa Script
+
 2024-11-9
      Add Evade Ambessa SpellData
 
