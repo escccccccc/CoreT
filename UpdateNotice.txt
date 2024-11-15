@@ -1,3 +1,14 @@
+2024-11-16
+    Fix in-game client error notification
+    Fix Ambessa Q2 Range Error
+    Add Ambessa Use A Combo With Q1 To Chase Down
+    Add Ambessa Use A Combo With E To Chase Down
+    Add Ambessa Flee Use Spell
+    Add Ambessa Energy Settings 
+    Add Ambessa Start A Combo With Basic Attacks On Minions
+    Add Orbwalker Fast LaneClear
+    Add Orbwalker Combo Basic attack on plant wards and turrets
+    
 2024-11-15
     Updated to 14.22.635.4945
     Updated Damage
