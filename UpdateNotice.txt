@@ -1,3 +1,8 @@
+2024-11-15
+    Updated to 14.22.635.4945
+    Updated Damage
+    Compensation for 4 hours of time for all users
+
 2024-11-14 
     Improve Riot Vanguard Sensing(Requires a computer restart)
     Fix Awareness Show Mushrooms
