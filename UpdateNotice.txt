@@ -1,3 +1,9 @@
+2024-11-17
+    Improve Swain W projected
+    Improve Swain E projected
+    Add Orbwalker Activate a combo with basic attacks on wards
+    Fix Pyke Use Kill E R
+
 2024-11-16
     Fix in-game client error notification
     Fix Ambessa Q2 Range Error
