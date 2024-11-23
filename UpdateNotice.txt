@@ -1,3 +1,8 @@
+2024-11-24
+    Improve turret Evade
+    Fix Viego retreat issue
+    Improve Viego W-A-Q combo
+
 2024-11-21
     Updated to 14.23.636.9832
     Compensation for 4 hours of time for all users
