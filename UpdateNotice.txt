@@ -1,4 +1,5 @@
 2024-11-24
+    Fix lobby errors
     Improve turret Evade
     Fix Viego retreat issue
     Improve Viego W-A-Q combo
