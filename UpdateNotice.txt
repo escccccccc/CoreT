@@ -1,3 +1,11 @@
+2024-11-27
+    Improve Jayce EQ Evade
+    Improve Veigar E Evade
+    Improve Camille Combo E target selection
+    Improve Jarvan IV E Q
+    FIx Jarvan IV Flee Fast E Q
+    FIx Viego W-A-Q Combo
+
 2024-11-24
     Fix lobby errors
     Improve turret Evade
