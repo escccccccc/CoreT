@@ -1,3 +1,9 @@
+2024-12-11
+    Updated to 14.24.642.1879
+    Updated Damage
+    Compensation for 4 hours of time for all users
+    Improve JarvanIV E Q
+    
 2024-12-2
     Fix in-game client error notification
 
