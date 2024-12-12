@@ -1,5 +1,9 @@
 2024-12-12
-    Improve Riot Vanguard Sensing
+    Improve Riot Vanguard Sensing(It's necessary to change the account again)
+    Fix ViktorR
+    Fix Sion Q
+    Fix Senna Examine One'S Soul
+    Improve Varus Q Target Selection
     
 2024-12-11
     Updated to 14.24.642.1879
