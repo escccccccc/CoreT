@@ -1,3 +1,6 @@
+2024-12-12
+    Improve Riot Vanguard Sensing
+    
 2024-12-11
     Updated to 14.24.642.1879
     Updated Damage
