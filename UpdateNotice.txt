@@ -1,3 +1,7 @@
+2024-12-14
+    Updated to 14.24.643.5128
+    Compensation for 6 hours of time for all users
+    
 2024-12-12
     Improve Riot Vanguard Sensing(It's necessary to change the account again)
     Fix ViktorR
