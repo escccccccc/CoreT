@@ -1,3 +1,9 @@
+2024-12-16
+    FIx JarvanIV E Q
+    FIx Orbwalker Viktor Q
+    FIx Evade ksante W
+    Improve Ziggs Q Targeting
+    
 2024-12-14
     Updated to 14.24.643.5128
     Compensation for 6 hours of time for all users
