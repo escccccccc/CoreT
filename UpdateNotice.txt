@@ -2,6 +2,7 @@
     Updated to 14.24.644.2327
     Compensation for 5 hours of time for all users
     Fix Ziggs W Howling Abyss Turrets
+    Fix Abyss Snowball
     
 2024-12-16
     FIx JarvanIV E Q
