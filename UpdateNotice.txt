@@ -1,3 +1,12 @@
+2024-12-21
+    Improve Sylas Q
+    Improve Nami Q
+    Improve Darius E
+    Improve Jax Combo
+    Improve Ziggs Q2 Targeting
+    Improve Caitlyn Use Kill R Safe Check
+    Fix Abyss Snowball
+
 2024-12-17
     Updated to 14.24.644.2327
     Compensation for 5 hours of time for all users
