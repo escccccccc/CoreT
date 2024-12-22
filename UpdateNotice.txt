@@ -1,3 +1,9 @@
+2024-12-22
+    Fix Darius E
+    Add Sett Open Vertical E
+    Add Caitlyn Turn on the escape key to counter-attack E
+    Improve Evade Pyke R
+
 2024-12-21
     Improve Sylas Q
     Improve Nami Q
