@@ -1,3 +1,8 @@
+2024-12-24
+    Fix Abyss Snowball
+    Improve Zilean Q
+    Improve Nami Q
+    
 2024-12-22
     Fix Darius E
     Add Sett Open Vertical E
