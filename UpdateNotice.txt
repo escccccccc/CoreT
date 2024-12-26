@@ -1,5 +1,9 @@
-2024-12-25
+2024-12-26
     Fix Abyss Snowball
+    Improve XinZhao Kill E
+    Improve Khazix Kill E
+    
+2024-12-25
     Improve XinZhao W
     Improve Khazix E
     
