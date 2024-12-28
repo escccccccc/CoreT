@@ -1,3 +1,10 @@
+2024-12-28
+    Add Lucian Enable AP Mode W
+    Rewrite Leblanc Combo
+    Rewrite Anivia Combo
+    Improve target selection
+    Improve Walls Yasuo
+
 2024-12-26
     Fix Abyss Snowball
     Improve XinZhao Kill E
