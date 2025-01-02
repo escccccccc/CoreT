@@ -1,3 +1,9 @@
+2025-1-2
+    Improve Prediction
+    Improve Gapcloser
+    Improve Interrupt Spells
+    Fix Ezreal Auto Q
+    
 2024-12-28
     Add Lucian Enable AP Mode W
     Rewrite Leblanc Combo
