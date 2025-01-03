@@ -1,3 +1,6 @@
+2025-1-3
+    Improve Abnormal error reporting
+
 2025-1-2
     Improve Prediction
     Improve Gapcloser
