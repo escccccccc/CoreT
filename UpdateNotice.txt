@@ -1,6 +1,6 @@
 2025-1-10
     Updated to 15.1.648.3927
-    Compensation for 2 hours of time for all users
+    Compensation for 6 hours of time for all users
     
 2025-1-9
     Updated to 15.1.647.8644
