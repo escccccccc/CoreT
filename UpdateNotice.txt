@@ -1,3 +1,9 @@
+2025-1-16
+    Fix Defense towers display
+    Add Close Modifying HWID
+    Improve Zilean Q Prediction
+    Improve Taliyah W Prediction
+
 2025-1-14
     Updated to 15.1.649.4112
 
