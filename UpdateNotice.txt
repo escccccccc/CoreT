@@ -1,3 +1,7 @@
+2025-1-24
+    Updated to 15.2.652.1536
+    Compensation for 4 hours of time for all users
+
 2025-1-23
     Updated to 15.2.650.9216
     Updated Damage
