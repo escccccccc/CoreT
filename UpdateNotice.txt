@@ -1,3 +1,16 @@
+2025-1-26
+    Improve Evade
+    Improve Prediction
+    Improve Corki Q 
+    Improve Gragas E 
+    Improve Velkoz E 
+    Improve Swain E 
+    Improve Hwei QW 
+    Improve Mordekaiser E 
+    Fix AurelionSol Auto Q
+    FIx Gangplank barrel
+    Fix Jayce QE
+
 2025-1-24
     Updated to 15.2.652.1536
     Compensation for 4 hours of time for all users
