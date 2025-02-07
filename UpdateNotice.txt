@@ -1,3 +1,7 @@
+2025-2-7
+    Add Program Mode 2 - Some users can use it - Solve the fast ban issue
+    Optimize Smolder's jungle clearing Q
+
 2025-2-5
     Updated to 15.3.654.407
     Updated Damage
