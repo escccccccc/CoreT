@@ -1,3 +1,9 @@
+2025-2-11
+    Updated Support Vanguard
+    Fix Senna Auto Pick Up Soul
+    Add Zilean Auto E Speed Up
+    Add Zed Use Kill W2
+    
 2025-2-7
     Add Program Mode 2 - Some users can use it - Solve the fast ban issue
     Optimize Smolder's jungle clearing Q
