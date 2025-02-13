@@ -1,3 +1,7 @@
+2025-2-13
+    Updated to 15.3.656.4086
+    Compensation for 4 hours of time for all users
+    
 2025-2-11
     Updated Support Vanguard
     Fix Senna Auto Pick Up Soul
@@ -10,6 +14,7 @@
 
 2025-2-5
     Updated to 15.3.654.407
+    Updated to 15.3.656.4086
     Updated Damage
     Compensation for 4 hours of time for all users
 
