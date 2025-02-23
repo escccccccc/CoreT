@@ -1,3 +1,7 @@
+2025-2-23
+    FIx Lobby Error
+    Compensation for 6 hours of time for all users
+
 2025-2-20
     Updated to 15.4.657.5386
     Compensation for 4 hours of time for all users
