@@ -1,3 +1,6 @@
+2025-2-24
+    Updated Support Vanguard
+
 2025-2-23
     FIx Lobby Error
     Compensation for 6 hours of time for all users
