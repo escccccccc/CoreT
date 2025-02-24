@@ -1,5 +1,5 @@
 2025-2-24
-    Updated Support Vanguard
+    Updated Mode 1 Support Vanguard
 
 2025-2-23
     FIx Lobby Error
