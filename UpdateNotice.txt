@@ -1,3 +1,17 @@
+2025-2-25
+    Updated Varus Q
+    Add Thresh Disable Q1 Within Auto Attack Range
+    Add Aurora Combo Q Cast Range
+    FIx Smolder Jungle Q
+    FIx JarvanIV E Q Hotkey
+    FIx Thresh Pick up lanterns
+    FIx Irelia Dive Turret Kill Q
+    FIx Mel W
+    Improve Zeri W
+    Improve Yuumi W
+    Improve Sylas E
+    Improve Gragas E
+
 2025-2-24
     Updated Mode 1 Support Vanguard
 
