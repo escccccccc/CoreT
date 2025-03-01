@@ -1,3 +1,6 @@
+2025-3-1
+    Add Mode 1 Prevent Vanguard Detection (Will Prompt An Van 185)
+
 2025-2-25
     Updated Varus Q
     Add Thresh Disable Q1 Within Auto Attack Range
