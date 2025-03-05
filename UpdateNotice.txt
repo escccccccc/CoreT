@@ -1,3 +1,14 @@
+2025-3-5
+    Updated to 15.3.654.407
+    Updated Damage
+    Added Ahri Combo R (Spirit Rush) with Q (Orb of Deception) Synergy
+    Fixed Azir Q (Conquering Sands) + E (Shifting Sands) Combo Issue
+    Added Lulu Q (Glitterlance) for Lane/Jungle Clear
+    Optimized Viktor R (Chaos Storm) Target Tracking Logic
+    Fixed Miss Fortune R (Bullet Time) Interruption Bug
+    Fixed Sylas Combo E2 (Abduct/Chained Lash) Logic
+    Optimized Zeri Skill CD Monitoring Position
+    
 2025-3-2
     Improve Prediction
 
