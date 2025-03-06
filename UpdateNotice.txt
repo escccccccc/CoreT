@@ -1,5 +1,6 @@
 2025-3-6
     Updated to 15.5.662.6652
+    Updated Prevert Vanguard Detection
 
 2025-3-5
     Updated to 15.5.661.4445
