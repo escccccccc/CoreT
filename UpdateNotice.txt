@@ -1,3 +1,27 @@
+2025-3-7
+    Updated Prevert Vanguard Detection
+    Champion Optimization Update Announcement
+    Enhanced Evasion Algorithm
+    Implemented Noxious Trap (Mushroom) Avoidance System
+    Refined Kindred Q (Dance of Arrows) Logic
+    Optimized Azir Q (Conquering Sands) Range Detection
+    Enhanced Katarina Combo Sequencing
+    Improved Ekko Combo Execution Parameters
+    Advanced Olaf Q (Undertow) Trajectory Prediction
+    Refined Zoe Combo Chain Intelligence
+    Enhanced Zoe Q2 (Paddle Star Return) Prediction
+    Extended Twisted Fate Auto-Q Intelligence (Additional Logic Parameters)
+    Added Samira E (Wild Rush) Hotkey Binding
+    Added Aurelion Sol W (Celestial Expansion) Manual Activation Hotkey
+    Added Alistar WQ Combo Hotkey
+    Added Alistar WQ Enemy Count Threshold Activation
+    Added Xin Zhao Watermark Menu Display
+    Added Olaf Axe Recovery Timer Display
+    Fixed Varus Jungle Clear Q Charge-Release Issue
+    Fixed Pantheon Lane/Jungle Clear Charged Q Functionality
+    Fixed Ability Targeting on Mushroom Traps
+    Fixed Gangplank Barrel Stacking Mechanics
+
 2025-3-6
     Updated to 15.5.662.6652
     Updated Prevert Vanguard Detection
