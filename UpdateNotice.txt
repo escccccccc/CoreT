@@ -1,3 +1,6 @@
+2025-3-8
+    Fixed bans for certain players
+
 2025-3-7
     Updated Prevert Vanguard Detection
     Champion Optimization Update Announcement
