@@ -1,5 +1,9 @@
 2025-3-8
     Fixed bans for certain players
+    Fixed Blue Screen of Death issue
+    Optimized Ornn R2 (Call of the Forge God second cast)
+    Fixed ARAM minimap display
+    Added Akali manual E release hotkey
 
 2025-3-7
     Updated Prevert Vanguard Detection
