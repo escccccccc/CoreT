@@ -1,3 +1,16 @@
+2025-3-10
+    Optimized Sylas E2 (Kingslayer second cast)
+    Optimized Ziggs ability logic
+    Optimized K'Sante Q+W combo flow
+    Improved Ornn E (Searing Charge) collision logic
+    Improved Pyke Q (Bone Skewer) target locking system
+    Improved Fizz ability combos timing
+    Improved Elise W (Skittering Frenzy/Volatile Spiderling) behavior
+    Optimized K'Sante Q+W combo flow
+    Fixed Mel ultimate damage calculation
+    Added Neeko W anti-gapcloser mechanic
+    
+
 2025-3-8
     Fixed bans for certain players
     Fixed Blue Screen of Death issue
