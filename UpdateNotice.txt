@@ -1,3 +1,9 @@
+2025-3-11
+    Fixed Zoe R+Q (Portal Jump + Paddle Star) combo issue
+    Fixed Sylas W (Kingslayer) ability logic
+    Optimized Gnar E (Hop/Hyper) + Ultimate (GNAR!) combo flow
+    Improved Zilean E (Time Warp) range detection & hotkey responsiveness
+
 2025-3-10
     Optimized Sylas E2 (Kingslayer second cast)
     Optimized Ziggs ability logic
