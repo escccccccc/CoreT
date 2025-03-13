@@ -1,3 +1,18 @@
+2025-3-13
+    Optimize Kindred's Q (Dance of Arrows) mechanics
+    Optimize Braum's shield activation logic
+    Adjust Vayne's Q (Tumble) effective range
+    Improve Lucian's E (Relentless Pursuit) pathing
+    Enhance circular dodging mechanics for skillshots
+    Fix Twisted Fate's W (Pick a Card) hotkey card cycling error
+    Resolve Katarina's dagger pickup interaction issues
+    Fix Caitlyn's basic attack interruption when casting W (Yordle Snap Trap)
+    Fix Aurelion Sol's Q (Starsurge) ability malfunction
+    Formatted for clarity and consistency with League of Legends terminology.
+    Optimize Sylas's W (Kingslayer) mechanics
+    I have provided a professional translation.
+
+
 2025-3-11
     Fixed Zoe R+Q (Portal Jump + Paddle Star) combo issue
     Fixed Sylas W (Kingslayer) ability logic
