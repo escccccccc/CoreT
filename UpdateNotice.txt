@@ -1,3 +1,12 @@
+2025-3-15
+    Optimize Darius R Execute
+    Optimize Akshan E (Grappling Hook) Logic
+    Optimize Riven Q AA Combo Mechanics
+    Optimize Braum W/E (Stand Behind Me/Unbreakable) Synergy
+    Optimize Sylas E2 (Abduct) Hitbox Consistency
+    Improve Lux E (Lucent Singularity) Predictive Targeting
+    Fix Zhonya's Hourglass Active (Stasis) Interaction Bugs
+
 2025-3-13
     Optimize Kindred's Q (Dance of Arrows) mechanics
     Optimize Braum's shield activation logic
