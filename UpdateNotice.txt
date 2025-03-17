@@ -1,3 +1,13 @@
+2025-3-17
+    Added support for single-board BOT injection
+    Optimized prediction algorithms
+    Optimized Riven's pursuit logic
+    Optimized Taric's E (Dazzle) evasion mechanics
+    Improved Akshan's E (Heroic Swing) pathfinding logic
+    Fixed issue where skills are not used under enemy turret
+    Fixed Sylas' E2 (Abscond/Abduct) screen freeze bug
+    Fixed Alistar's WQ (Headbutt/Pulverize) combo execution
+
 2025-3-15
     Optimize Darius R Execute
     Optimize Akshan E (Grappling Hook) Logic
