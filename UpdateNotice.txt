@@ -1,5 +1,5 @@
 2025-3-19
-    Updated to 15.6.662.6652
+    Updated to 15.6.664.9480
     Updated Damage
     Optimized Riven's ability logic (Q/W/E interaction)
     Fixed attack-move failure when targeting Gangplank's Powder Kegs (E)
