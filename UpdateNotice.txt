@@ -1,3 +1,9 @@
+2025-3-19
+    Updated to 15.6.662.6652
+    Updated Damage
+    Optimized Riven's ability logic (Q/W/E interaction)
+    Fixed attack-move failure when targeting Gangplank's Powder Kegs (E)
+    
 2025-3-17
     Added support for single-board BOT injection
     Optimized prediction algorithms
