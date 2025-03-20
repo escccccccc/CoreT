@@ -1,3 +1,14 @@
+2025-3-20-1
+    Updated to 15.6.666.5757
+    Optimized Riven's ability logic (Q/W/E interaction flow)
+    Fixed attack-move failure targeting Gangplank's Powder Kegs (E)
+    Added skill placement markers for enemy Teleport zones (Caitlyn W Yordle Snap Trap, Shaco W Jack in the Box, Teemo R Noxious Trap)
+    Added Xayah Feather display (Passive trajectory visualization)
+    Implemented Sylas tower-dive watermark indicators
+    Refactored Naafiri's W (Darkin Daggers) and R (The Call) targeting logic
+    Improved Jayce Q (Shock Blast/To the Skies!) priority targeting
+    Added Gangplank Powder Keg (E) explosion warning cues
+
 2025-3-20
     Fixed Vanguard anti-cheat detection compatibility
     Compensated all users with 24-hour service extension (including expired accounts)
