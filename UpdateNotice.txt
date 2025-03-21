@@ -1,3 +1,6 @@
+2025-3-21
+    Updated to 15.6.667.359
+    
 2025-3-20-1
     Updated to 15.6.666.5757
     Optimized Riven's ability logic (Q/W/E interaction flow)
