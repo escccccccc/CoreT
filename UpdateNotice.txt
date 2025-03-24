@@ -1,3 +1,17 @@
+2025-3-25
+    Fixed EZ W jungle clearing
+    Fixed Samira E tower dive bug
+    Optimized Varus combo logic
+    Optimized Zyra R prediction
+    Added Kayle hotkey self-protection
+    Added CD timer enhanced click prompt
+    Added Swain E skill tracking
+    Added Miss Fortune R safety check
+    Added ARAM relic cooldown timer
+    Added ARAM snowball low HP auto-cast
+    Added enemy Xayah feather visibility
+    Added Smite toggle on left mouse click
+
 2025-3-23
     All Users: 24-hour service extension (including expired accounts)
     Hourly Subscriptions: Additional 8-hour extension
