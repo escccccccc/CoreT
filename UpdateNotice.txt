@@ -1,3 +1,7 @@
+2025-3-25-1
+    Optimize Evade Logic
+    Added CD timer enhanced click prompt(Champion HUD: Left-click to send enemy champion info to chat.)
+    
 2025-3-25
     Fixed EZ W jungle clearing
     Fixed Samira E tower dive bug
