@@ -1,4 +1,10 @@
+2025-3-26
+    Updated to 15.6.668.2516
+    All Users: 4-hour service extension (including expired accounts)
+    
 2025-3-25-1
+    Fix Swain E2 Auto-Tracking Bug
+    Optimize Swain E2 Max CC Duration
     Optimize Evade Logic
     Added CD timer enhanced click prompt(Champion HUD: Left-click to send enemy champion info to chat.)
     
