@@ -1,3 +1,6 @@
+2025-3-27
+    Updated Riot Vanguard 1.17.3.4
+
 2025-3-26
     Updated to 15.6.668.2516
     All Users: 4-hour service extension (including expired accounts)
