@@ -1,5 +1,5 @@
 2025-4-2
-    Updated to 15.6.664.9480
+    Updated to 15.7.669.24
     Updated Damage
     All Users: 4-hour service extension (including expired accounts)
     Optimize Zoe RQ Logic
