@@ -1,3 +1,13 @@
+2025-4-2
+    Updated to 15.6.664.9480
+    Updated Damage
+    All Users: 4-hour service extension (including expired accounts)
+    Optimize Zoe RQ Logic
+    Optimize Azir R (Shurima Shuffle)
+    Optimize Akshan E (Heroic Swing) Logic
+    Optimize Ekko EQ Combo Logic
+    Add Kayle Manual Q (Radiant Blast) Hotkey
+    
 2025-3-27
     Updated Riot Vanguard 1.17.3.4
 
