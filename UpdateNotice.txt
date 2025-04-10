@@ -1,3 +1,7 @@
+2025-4-10
+    Updated to 15.7.672.4034
+    All Users: 2-hour service extension (including expired accounts)
+
 2025-4-7
     Optimize BOT Injection Logic
     
