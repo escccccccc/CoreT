@@ -1,3 +1,7 @@
+2025-4-16-1
+    Fix game window not responding or crashing issue.
+    All Users: 4-hour service extension (including expired accounts)
+    
 2025-4-16
     Updated to 15.8.673.8244
     Updated Damage
