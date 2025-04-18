@@ -1,3 +1,6 @@
+2025-4-18
+    Updated to 15.8.674.8619
+
 2025-4-16-1
     Fix game window not responding or crashing issue.
     All Users: 4-hour service extension (including expired accounts)
