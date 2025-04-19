@@ -1,3 +1,19 @@
+2025-4-20
+    Improved Target Selection Logic
+    Enhanced Aatrox Evade Performance
+    Refined Ryze Combo Execution Flow
+    Optimized Tristana E (Explosive Charge) Targeting
+    Improved Orbwalker Lane Clear Logic for Gangplank Barrels
+    Refined Thresh E (Flay) Target Selection
+    Fixed Alistar W+Q Combo Interaction Issue
+    Added Range Condition for Talon W (Rake) Usage
+    Added Toggle: Galio E (Justice Punch) Under Tower Usage
+    Implemented Automatic Galio R (Hero's Entrance) Activation
+    Integrated Aurora W into Kill Combo Sequences
+    Resolved Issue: Kalista R (Fate's Call) Improper Target Launch
+    Corrected Viego Passive Soul Collection Logic
+    Addressed Orbwalker Issue: 'Block Attack in Combo' Setting Incorrectly Applying Globally
+
 2025-4-19
     Fix error van185 message
     Updated to 15.8.675.10
