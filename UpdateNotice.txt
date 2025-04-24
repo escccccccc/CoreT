@@ -1,3 +1,17 @@
+2025-4-24
+    Improved Prediction Accuracy
+    Optimized Renekton Combo Logic
+    Refined Riven Q (Broken Wings) Combo Execution
+    Improved Orianna Q (Command: Attack) Usage
+    Enhanced LeBlanc W (Distortion) Logic
+    Refined Xerath W (Eye of Destruction) Usage
+    Improved Quinn Interrupt Logic, now considering Turret Threat
+    Added Activator Support for Snowball Recast
+    Added Range Condition for Blitzcrank Q (Rocket Grab) Usage
+    Implemented Draven W (Blood Rush) Usage Logic and Mana Management
+    Added Cassiopeia Anti-Engage W (Miasma) and R (Petrifying Gaze) Usage
+    Fixed Pantheon Q (Comet Spear) Usage Issue
+
 2025-4-20
     Improved Target Selection Logic
     Enhanced Aatrox Evade Performance
