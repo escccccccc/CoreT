@@ -1,3 +1,6 @@
+2025-5-1
+    Resolved Client Login Errors
+
 2025-4-30
     Updated to 15.9.677.4704
     Updated Damage
