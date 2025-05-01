@@ -1,6 +1,8 @@
 2025-5-1
     Resolved Client Login Errors
-
+    Updated to 15.9.678.398
+    All Users: 5-hour service extension (including expired accounts)
+    
 2025-4-30
     Updated to 15.9.677.4704
     Updated Damage
