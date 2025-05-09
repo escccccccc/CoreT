@@ -1,3 +1,6 @@
+2025-5-10-1
+    Fix Riot Vanguard not running error for some customers.
+
 2025-5-10
     Understood. Implementing Client Fix: Resolved in-game error messages affecting some players.
 
