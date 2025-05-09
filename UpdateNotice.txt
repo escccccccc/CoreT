@@ -2,6 +2,7 @@
     Azir R (Emperor's Divide) Shuffle Logic Optimized
     Katarina Kill Reset E -> Auto-Attack Sequence Added
     Alistar W->Q Combo Hotkey Input Fixed
+    Roger that. Updating Aatrox Q (The Darkin Blade) logic for improved performance.
     
 2025-5-9
     Updated Riot Vanguard 1.17.6.2
