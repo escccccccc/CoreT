@@ -1,3 +1,9 @@
+ 2025-6-11
+    Updated to 15.12.688.2594
+    Updated Damage
+    All Users: 4-hour service extension (including expired accounts)
+    FIx Belveth R range
+
 2025-6-3
     Fix game popup error
     All Users: 7-hour service extension (including expired accounts)
