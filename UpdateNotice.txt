@@ -1,3 +1,6 @@
+2025-6-20
+    Fix Riot Vanguard error reporting
+
 2025-6-11-1
     Updated to 15.12.688.6522
 
