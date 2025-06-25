@@ -1,3 +1,9 @@
+ 2025-6-25
+    Updated to 15.13.691.9951
+    Updated Damage
+    All Users: 4-hour service extension (including expired accounts)
+    Add  Jax Many people
+    
 2025-6-20
     Fix Riot Vanguard error reporting
 
