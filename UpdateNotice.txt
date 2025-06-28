@@ -1,7 +1,8 @@
-2025-6-28-1
+2025-6-28-2
     Updated to 15.13.693.4876
     Fixing the Vanguard error message issue.
     All users will be compensated with 24 hours of key time (except for users with 8-hour keys).
+    This version requires a system restart after the update, otherwise the error will still persist!
 
 2025-6-27-1
     Updated to 15.13.693.1306
