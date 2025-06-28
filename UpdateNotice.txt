@@ -1,6 +1,7 @@
-2025-6-28
+2025-6-28-1
     Updated to 15.13.693.4876
-    Fix Popup Box Error (Requires Reboot)
+    Fixing the Vanguard error message issue.
+    All users will be compensated with 24 hours of key time (except for users with 8-hour keys).
 
 2025-6-27-1
     Updated to 15.13.693.1306
