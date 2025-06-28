@@ -1,5 +1,6 @@
 2025-6-28
     Updated to 15.13.693.4876
+    Fix Popup Box Error (Requires Reboot)
 
 2025-6-27-1
     Updated to 15.13.693.1306
