@@ -1,3 +1,6 @@
+2025-7-1
+    Updated Riot Vanguard 1.17.9.14
+
 2025-6-28-2
     Updated to 15.13.693.4876
     Fixing the Vanguard error message issue.
