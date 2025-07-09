@@ -1,3 +1,7 @@
+2025-7-9
+    Updated Riot Vanguard 1.17.9.17
+    Restoration Partial Inspection
+    
 2025-7-1
     Updated Riot Vanguard 1.17.9.14
 
