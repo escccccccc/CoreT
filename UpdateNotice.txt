@@ -1,3 +1,6 @@
+2025-7-19
+    Add Yunara Champion Script
+
 2025-7-18
     Fix Vanguard Not Running Popup Box
 
