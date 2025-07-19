@@ -1,4 +1,5 @@
 2025-7-20
+    Updated Riot Vanguard 1.17.10.3
     Updated YunaraE Evade Data
     Fix  Yunara Mending
     
