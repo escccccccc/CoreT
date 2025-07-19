@@ -1,3 +1,7 @@
+2025-7-20
+    Updated YunaraE Evade Data
+    Fix  Yunara Mending
+    
 2025-7-19
     Add Yunara Champion Script
 
