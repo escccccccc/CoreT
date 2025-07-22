@@ -1,5 +1,6 @@
-2025-7-22
+2025-7-22-1
     Updated to 15.14.697.2104
+    All users compensated for 10 hours
     
 2025-7-21
     Add Arena Items Ues
