@@ -1,3 +1,7 @@
+2025-7-25
+    Updated Aatrox Q-E logic
+    Updated XinZhao Combo W 0-1000 Range
+
 2025-7-22-1
     Updated to 15.14.697.2104
     All users compensated for 10 hours
