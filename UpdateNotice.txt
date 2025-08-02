@@ -1,5 +1,6 @@
-2025-8-2
+2025-8-2-1
     Updated to 15.15.701.1573
+    Updated Riot Vanguard 1.17.11.3
     
 2025-7-30
     Updated to 15.15.699.7589
