@@ -1,3 +1,6 @@
+2025-8-2
+    Updated to 15.15.701.1573
+    
 2025-7-30
     Updated to 15.15.699.7589
     Updated Damage
