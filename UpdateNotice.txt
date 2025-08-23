@@ -1,3 +1,12 @@
+2025-8-23
+    Updated to 15.16.706.7476
+    All Users: 8-hour service extension (including expired accounts)
+    Optimize Prediction
+    Optimize Aatrox Q-E logic
+    Optimize Yone E-Q, E-R logic
+    Optimize Azir spin R logic
+    Optimize Caitlyn Q
+    
 2025-8-19
     Update Riot Vanguard Detection
     Optimize Azir W
