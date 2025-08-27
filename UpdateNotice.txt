@@ -1,3 +1,6 @@
+2025-8-28
+    Fix Vanguard not running
+    
 2025-8-27 
     Updated to 15.17.706.7412
     Updated Damage
