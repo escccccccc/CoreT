@@ -1,3 +1,7 @@
+2025-9-16
+    Updated Aurora E Gapcloser
+    FIx Combo Attacking Gangplank Barrel
+
 2025-9-10
     Updated to 15.18.710.2811
     Updated Damage
