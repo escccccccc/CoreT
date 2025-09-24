@@ -1,3 +1,16 @@
+2025-9-24
+    Updated to 15.19.714.1669
+    Updated Damage
+    All Users: 8-hour service extension (including expired accounts)
+    Add activator Mercury to disable Lulu W
+    Add Poppy W to disable dash skills
+    Fix Tristana combo not attacking
+    Add Nami ultimate dodge data
+    Optimize dash skill logic
+    Fix Taliyah E Lucian not using Q skill
+    Fix Pantheon combo charging Q not releasing
+    Add Samira counter-attack skill E
+    
 2025-9-16
     Updated Aurora E Gapcloser
     FIx Combo Attacking Gangplank Barrel
