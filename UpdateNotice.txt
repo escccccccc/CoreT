@@ -1,7 +1,7 @@
 2025-10-15
     Updated to 15.20.719.545
     All Users: 3-hour service extension (including expired accounts)
-    Shield Logic Fix
+    Shield Logic Fix 
 
 2025-10-11
     Updated to 15.20.718.3519
