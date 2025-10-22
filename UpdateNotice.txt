@@ -1,7 +1,14 @@
+2025-10-22
+    Updated to 15.21.720.925
+    All Users: 4-hour service extension (including expired accounts)
+    Optimize Lulu W Logic
+    Fixed Twisted Fate auto-Q
+    Add full monster tracking and vision
+
 2025-10-15
     Updated to 15.20.719.545
     All Users: 3-hour service extension (including expired accounts)
-    Shield Logic Fix    
+    Shield Logic Fix
 
 2025-10-11
     Updated to 15.20.718.3519
