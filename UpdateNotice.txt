@@ -1,3 +1,24 @@
+2025-11-5
+    Updated to 15.22.723.1955
+    All Users: 3-hour service extension (including expired accounts)
+    Added Milio R to remove Lulu W
+    Adjusted Renata R default ultimate settings
+    Optimized Qiyana E logic
+    Optimized Aatrox Q-E logic
+    Optimized Aurora Q E logic
+    Optimized Jayce combo logic
+    Optimized Syndra Q E logic
+    Fixed Darius clearing minions with W
+    Fixed Darius ultimate kills
+    Fixed Gangplank harassing with Q
+    Fixed Hwei's Q series target selection range
+    Fixed Jinx's auto-W issue
+    Fixed Senna's auto-soul collection
+    Fixed Sivir's E dodging targeted abilities
+    Fixed Sylas R stealing Tryndamere R
+    Fixed Sylas E2 combo issues
+    Fixed Activator/Cleanser global J-key toggle
+
 2025-10-30
    Updated Riot Vanguard 1.17.15.2
 
@@ -9,8 +30,6 @@
     
 2025-10-24
     Updated to 15.21.721.4012
-    
-2025-10-23
     Updated to 15.21.721.583
 
 2025-10-22
