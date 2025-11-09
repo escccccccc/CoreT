@@ -1,3 +1,8 @@
+2025-11-9
+    Fixed Zeri's Q combo issues
+    Optimized Syndra's W2 non-activation issue
+    Optimized Hwei's target range issue
+
 2025-11-7 
     Updated to 15.22.724.5161
     
