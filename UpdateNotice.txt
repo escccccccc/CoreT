@@ -1,3 +1,7 @@
+2025-11-16
+    Fix Zeri combo Q target selection
+    Optimize Kindred Q logic
+
 2025-11-9
     Fixed Zeri's Q combo issues
     Optimized Syndra's W2 non-activation issue
