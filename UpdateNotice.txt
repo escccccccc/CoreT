@@ -1,7 +1,16 @@
+2025-11-19
+    Updated to 15.23.726.9074
+    All Users: 4-hour service extension (including expired accounts)
+    Fixed error 2266 on some clients
+    Fixed monster tracking to avoid river crab positioning
+    Optimized Sivir's evasion skills
+    Fixed Sylas E2 combo issues
+    Optimize Kindred Q logic
+    Optimized Syndra W logic
+    
 2025-11-16
     Fix Zeri combo Q target selection
-    Optimize Kindred Q logic
-
+    
 2025-11-9
     Fixed Zeri's Q combo issues
     Optimized Syndra's W2 non-activation issue
