@@ -1,3 +1,6 @@
+2025-11-20
+    Updated to 15.23.727.6470
+
 2025-11-19
     Updated to 15.23.726.9074
     All Users: 4-hour service extension (including expired accounts)
