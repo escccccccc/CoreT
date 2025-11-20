@@ -1,3 +1,7 @@
+2025-11-21
+    Add Zaahen Hero Script
+    Add Zaahen Dodge Data
+
 2025-11-20
     Updated to 15.23.727.6470
 
