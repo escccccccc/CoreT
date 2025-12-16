@@ -1,5 +1,5 @@
 2025-12-16
-    Updated to 16.1.733.1276
+    Updated to 15.24.733.5841
     
 2025-12-14
     Fixed Viego returning to the death location after soul pickup.
