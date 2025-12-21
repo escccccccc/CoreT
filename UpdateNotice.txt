@@ -1,3 +1,7 @@
+2025-12-21
+    Fix client error (PC reboot required)
+    All Users: 48-hour service extension (including expired accounts)
+    
 2025-12-20
     Updated to 15.24.734.7485
     All Users: 8-hour service extension (including expired accounts)
