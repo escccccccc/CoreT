@@ -1,3 +1,7 @@
+2026-1-9
+    Updated to 16.1.737.1049
+    Fix Ping
+    
 2026-1-8
     Updated to 16.1.734.5787
     Updated Damage
