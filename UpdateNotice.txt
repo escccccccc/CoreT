@@ -1,3 +1,13 @@
+2026-1-22
+    Updated to 16.2.738.9684
+    Updated Damage
+    Add Pyke E tracking (disabled by default)
+    Add restriction on using Flash to dodge
+    Add toggle for Darius' tracking Q
+    Fix Smite damage
+    Fix the last barrel not being hit during orbwalking
+    Fix Jayce not casting QE
+    
 2026-1-9
     Updated to 16.1.737.1049
     Fix Ping
