@@ -1,3 +1,8 @@
+2026-1-23
+    Updated to 16.2.740.1491
+    Updated to Vanguard 1.90.0.0 
+    Fix Jayce Q
+     
 2026-1-22
     Updated to 16.2.738.9684
     Updated Damage
