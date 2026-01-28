@@ -1,3 +1,7 @@
+2026-1-28
+    Updated to 16.2.741.3171
+    Updated to Vanguard 1.17.17.26
+    
 2026-1-26
     Fix Smite damage
     Add Activator Item Hextech_Gunblade
