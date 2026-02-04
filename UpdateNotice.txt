@@ -1,3 +1,12 @@
+2026-2-4
+    Updated to 16.3.742.6169
+    Updated Damage
+    All Users: 3-hour service extension (including expired accounts)
+    Fix Jayce's E ability issue
+    Add priority targeting for Steel Core (targets marked by Steel Core)
+    Add Tristana E target lock-on functionality
+    Update Mei's champion script data
+    
 2026-1-28
     Updated to 16.2.741.3171
     Updated to Vanguard 1.17.17.26
