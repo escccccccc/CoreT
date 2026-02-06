@@ -1,3 +1,10 @@
+2026-2-6
+    Updated to version 16.3.744.1639
+    Optimize LeBlanc combo sequences
+    Optimize fast wave clear
+    Optimize Time Wraith Q detonation on minions
+    Add Dragon King harass Q for last-hitting
+
 2026-2-4
     Updated to version 16.3.742.6169
     Damage values updated
