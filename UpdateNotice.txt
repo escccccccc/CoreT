@@ -1,3 +1,7 @@
+2026-2-11
+    Updated to version 16.3.745.7600
+    All users: 7-hour service extension (including expired accounts)
+        
 2026-2-6
     Updated to version 16.3.744.1639
     Optimize LeBlanc combo sequences
