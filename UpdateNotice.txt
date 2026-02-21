@@ -1,3 +1,6 @@
+2026-2-21
+    Updated to version 16.4.748.682
+
 2026-2-19
    Game version updated to 16.4.746.5697
    Fixed Vanguard Event VAN84 and the issue requiring Vanguard to run in order to play
