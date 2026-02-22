@@ -1,3 +1,7 @@
+2026-2-22
+    Fix Vanguard pop-up error 2266 84
+    All users have been compensated with 24 hours of key time.
+
 2026-2-21
     Updated to version 16.4.748.682
     All users have been compensated with 48 hours of key time.
