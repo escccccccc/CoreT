@@ -1,3 +1,13 @@
+2026-3-4
+    Updated to version 16.5.749.6037
+    Damage values updated
+    All users: 8-hour service extension (including expired accounts)
+    Optimize Evade
+    Optimize Xerath Q
+    Optimize Kindred Q
+    Optimize Zoe R-Q
+    Fix W + auto attack interaction for Corki
+    
 2026-2-22
     Fix Vanguard pop-up error 2266 84
     All users have been compensated with 24 hours of key time.
