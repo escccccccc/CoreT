@@ -1,3 +1,6 @@
+2026-3-10-1
+    Fix Vanguard Event VAN81
+
 2026-3-10
     Updated to version 16.5.751.9084
     All users: 8-hour service extension (including expired accounts)
