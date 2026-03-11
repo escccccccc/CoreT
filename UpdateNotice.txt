@@ -1,3 +1,6 @@
+ 2026-3-11
+    FIX Vanguard Event TPM
+
 2026-3-10-1
     Fix Vanguard Event VAN81
 
