@@ -1,3 +1,12 @@
+2026-3-18
+    Updated to version 16.6.753.8272
+    Damage values updated
+    All users: 8-hour service extension (including expired accounts)
+    Optimize Kindred Q logic  
+    Fix Naafiri using R with multiple enemies  
+    Fix Gwen Q combo  
+    Fix Syndra W combo  
+
 2026-3-12
     Updated to version 16.5.752.7101
     
