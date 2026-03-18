@@ -5,7 +5,7 @@
     Optimize Kindred Q logic  
     Fix Naafiri using R with multiple enemies  
     Fix Gwen Q combo  
-    Fix Syndra W combo  
+    Fix Syndra W combo   
 
 2026-3-12
     Updated to version 16.5.752.7101
