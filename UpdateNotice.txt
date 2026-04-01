@@ -1,3 +1,10 @@
+2026-4-1
+    Updated to version 16.7.758.4427
+    Damage values updated
+    All users: 4-hour service extension (including expired accounts)
+    Optimize Kindred Q logic 
+    Fix Lucian E
+    
 2026-3-26 
     Updated to version 16.6.756.9613
 
