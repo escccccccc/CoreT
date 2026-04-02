@@ -1,3 +1,8 @@
+2026-4-2-1
+    Our main Discord server was removed by 
+    Discord due to a copyright infringement notice for unknown reasons.
+    We are currently rebuilding it. Please be patient and wait.
+
 2026-4-2
     Updated to version 16.7.760.5228
     Updated to Vanguard 1.18.1.38
