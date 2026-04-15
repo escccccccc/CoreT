@@ -1,3 +1,9 @@
+2026-4-15
+    Updated to version 16.8.764.3737
+    Damage values updated
+    All users: 4-hour service extension (including expired accounts)
+    Fix ARAM cooldown
+    
 2026-4-3 
     Updated to version 16.7.760.9485
     
