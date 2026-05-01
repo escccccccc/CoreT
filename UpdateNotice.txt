@@ -1,3 +1,6 @@
+2026-5-1
+    Vanguard version 1.18.2.24 has been updated.
+
 2026-4-30
     Updated to version 16.9.771.8383
     
