@@ -1,3 +1,7 @@
+2026-5-15
+    Updated to version 16.10.776.5552
+    Vanguard version 1.18.3.45 has been updated.
+
 2026-5-13
     Updated to version 16.10.775.1511
     Damage values updated
