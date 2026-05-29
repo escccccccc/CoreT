@@ -1,3 +1,7 @@
+2026-5-29
+    Updated to version 16.11.781.1789
+    All users: 4-hour service extension (including expired accounts)
+    
 2026-5-28
     Updated to version 16.11.779.4239
     Damage values updated
