@@ -1,3 +1,7 @@
+2026-6-2
+    Updated to version 16.11.782.1492
+    All users: 4-hour service extension (including expired accounts)
+    
 2026-5-29
     Updated to version 16.11.781.1789
     All users: 4-hour service extension (including expired accounts)
