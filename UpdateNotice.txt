@@ -1,3 +1,6 @@
+2026-6-25
+    Updated to version 16.13.790.6961
+    
 2026-6-24
     Updated to version 16.13.789.3741
     Damage values updated
