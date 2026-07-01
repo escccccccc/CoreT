@@ -1,3 +1,8 @@
+2026-7-1
+    Add Locke champion script
+    Add Locke dodge skill
+    Add Locke skill evasion data
+
 2026-6-25
     Updated to version 16.13.790.6961
     
