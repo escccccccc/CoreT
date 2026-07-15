@@ -1,3 +1,8 @@
+2026-7-15
+    Updated to version 16.14.794.5912
+    Damage values updated
+    All users: 6-hour service extension (including expired accounts)
+    
 2026-7-1
     Add Locke champion script
     Add Locke dodge skill
