@@ -1,3 +1,7 @@
+2026-7-29
+    Updated to version 16.15.799.6036
+    Damage values updated
+
 2026-7-15
     Updated to version 16.14.794.5912
     Damage values updated
