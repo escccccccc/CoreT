@@ -1,3 +1,6 @@
+2026-8-13
+    Fixed an issue that prevented users from logging into the server after using an external Spoofer.
+
 2026-8-12
     Updated to version 16.16.804.9184
     Damage values updated
