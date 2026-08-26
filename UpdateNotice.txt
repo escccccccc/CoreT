@@ -1,3 +1,8 @@
+2026-8-26
+    Updated to version 16.17.810.4348
+    Damage values updated
+    All users: 5-hour service extension (including expired accounts)
+    
 2026-8-13
     Fixed an issue that prevented users from logging into the server after using an external Spoofer.
 
