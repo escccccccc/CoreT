@@ -1,3 +1,8 @@
+2026-10-12
+    Add Aatrox hotkey toggle for E combo.
+    Optimize the logic for State switching and mouse-clicking on jungle monsters.
+    Fix Zeri Optimize CS and Q
+
 2026-10-7
     Updated to version 16.20.824.8524
     Damage values updated
