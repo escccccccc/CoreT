@@ -1,3 +1,7 @@
+2026-10-21
+    Updated to version 16.21.829.8620
+    Damage values updated
+
 2026-10-12
     Add Aatrox hotkey toggle for E combo.
     Optimize the logic for State switching and mouse-clicking on jungle monsters.
