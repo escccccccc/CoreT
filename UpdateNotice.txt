@@ -1,3 +1,6 @@
+2026-10-22
+    Fix Game Crash
+
 2026-10-21
     Updated to version 16.21.829.8620
     Damage values updated
