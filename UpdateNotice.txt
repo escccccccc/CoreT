@@ -1,3 +1,7 @@
+2026-11-4
+    Updated to version 16.22.834.8910
+    Damage values updated
+
 2026-10-22
     Fix Game Crash
 
