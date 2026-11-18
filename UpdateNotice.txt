@@ -1,3 +1,11 @@
+2026-11-18
+    Updated to version 16.23.839.2999
+    Damage values updated
+    
+2026-11-5
+    Fixed VAN errors and the issue where the "VGC is not running" message appeared during gameplay.
+    All license keys have been extended by 24 hours, regardless of type.
+
 2026-11-4
     Updated to version 16.22.834.8910
     Damage values updated
